@@ -19,6 +19,7 @@
               color="cyan lighten-2"
               class="mx-0"
               outlined
+              to = "/"
             >
               Read More
             </v-btn>
